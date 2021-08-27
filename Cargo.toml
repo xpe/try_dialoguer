@@ -1,0 +1,7 @@
+[package]
+edition = "2018"
+name = "try_dialoguer"
+version = "0.1.0"
+
+[dependencies]
+dialoguer = "0.8.0"
